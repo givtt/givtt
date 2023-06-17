@@ -79,12 +79,6 @@ GIVT Alghmadi    </h2>
 <a href="https://www.instagram.com/we62" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://t.me/givtt/" target="_blank">
-<img src="https://th.bing.com/th/id/R.4e27b3c30d8652547186c46d1dd6873d?rik=JNianGEBIUXsVg&pid=ImgRaw&r=0" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://www.instagram.com/we62" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
 
 </p>
 
