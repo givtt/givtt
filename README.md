@@ -45,7 +45,7 @@ GIVT Alghmadi    </h2>
 <a href="https://git-scm.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="cplusplus" width="40" height="40" />  
 </a>	&nbsp;
-<a href="https://github.com/Abhishek-00" target="_blank">
+<a href="https://github.com/givtt" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">    
 </a>	&nbsp;
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
@@ -79,6 +79,13 @@ GIVT Alghmadi    </h2>
 <a href="https://www.instagram.com/we62" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
+<a href="https://t.me/givtt/" target="_blank">
+<img src="https://th.bing.com/th/id/R.4e27b3c30d8652547186c46d1dd6873d?rik=JNianGEBIUXsVg&pid=ImgRaw&r=0" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.instagram.com/we62" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+
 </p>
 
 <br/>
