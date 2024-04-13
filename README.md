@@ -37,40 +37,6 @@ Iam GIVT Alghamdi    </h2>
 </p>
 
 
-          
-
-
-## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
-<p align="left">
-<a href="https://git-scm.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="cplusplus" width="40" height="40" />  
-</a>	&nbsp;
-<a href="https://github.com/givtt" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">    
-</a>	&nbsp;
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px"></a>	&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>	&nbsp;
-&nbsp;
-</p>
-
-
-<br/>
-<hr/>
-
-
-## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
-
-<p align="center">
-<a href="https://github.com/givtt">
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=givtt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-
-<br/>
-<hr/>
 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
